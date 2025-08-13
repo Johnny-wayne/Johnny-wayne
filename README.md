@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<br> 
+<br/> 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />&nbsp;&nbsp;
@@ -29,17 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<br/> 
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Johnny-wayne/Johnny-wayne/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Johnny-wayne/Johnny-wayne/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Johnny-wayne/Johnny-wayne/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/johnny-wayne-soares-95a8b1268/" target="_blank">
