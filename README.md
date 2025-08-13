@@ -30,6 +30,7 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/johnny-wayne-soares-95a8b1268/" target="_blank">
